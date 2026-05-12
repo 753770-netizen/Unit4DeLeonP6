@@ -6,7 +6,7 @@ public class SpawnManagerX : MonoBehaviour
 {
     public GameObject enemyPrefab;
     public GameObject powerupPrefab;
-    public float powerupDuration = 5.0f;
+    public float powerupDuration = 4.0f;
 
     private float spawnRangeX = 10;
     private float spawnZMin = 15; // set min spawn Z
